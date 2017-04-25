@@ -1,0 +1,23 @@
+[[items]]
+title = "Beast and Man"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Beast and Man by Mary Midgley"
+description = "."
+url = "https://github.com/aerohub/hugrid"
+
+[[items]]
+title = "The Nature of Computation"
+image = "images/full/moore.jpeg"
+thumb = "images/thumbs/moore-thumb.jpeg"
+alt = "The Nature of Computation by Cristopher Moore"
+description = "Highly acclaimed, witty, passionate introduction to theoretical computer science."
+url = "posts/nature-of-computation"
+
+[[items]]
+title = "A Heterodox Economics Reading List"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Heterodox Economics"
+description = ""
+url = "https://github.com/aerohub/hugrid"

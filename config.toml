@@ -1,0 +1,28 @@
+baseURL = "http://spoility.netlify.com/"
+languageCode = "en-gb"
+title = "Spoilers for Reality"
+theme = "hugrid"
+
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Spoilers for Reality"
+    subtitle = "exhaustingly detailed reviews of the most important books"
+    author = "Gavin Leech"
+    keywords = "reviews, worked problems, computer science, ethics, mathematics, physics"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "See whole review"
+
+    # Footer text
+    footertext = "[<b>About</b>]<br><br>Words by [Gavin Leech](http://gleech.org), theme by [Pavel Kanyshev](https://github.com/aerohub)"
+
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
